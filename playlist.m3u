@@ -1,0 +1,22 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/8YlTC8h.png" group-title="NASIONAL", TVRI Nasional
+https://p.stream.tvri.go.id/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.imgur.com/Q9v3z8e.png" group-title="OLAHRAGA", TVRI Sport
+https://p.stream.tvri.go.id/live/sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/K0Y7y8v.png" group-title="BERITA", Kompas TV
+https://content.jwplatform.com/manifests/W1w8K6vP.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/5J3z8yv.png" group-title="BERITA", Metro TV
+https://bclive01.metrotvnews.com/content/MetroTV/MetroTV.m3u8
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/3Y8z8yv.png" group-title="HIBURAN", RTV
+http://103.18.12.34:1935/live/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntaraTV.id" tvg-logo="https://i.imgur.com/7J9z8yv.png" group-title="BERITA", Antara TV
+https://antaranews.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/9K0z8yv.png" group-title="LOKAL", Jawa Pos TV
+https://stream.jawapos.com/live/playlist.m3u8
