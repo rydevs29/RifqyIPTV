@@ -1,167 +1,141 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indonesia.epg.xml"
 
-# ============================================
-# 🇮🇩 CHANNEL INDONESIA - NASIONAL
-# ============================================
+# ═══════════════════════════════════════════════════════
+# 🇮🇩 CHANNEL INDONESIA - UPDATE APRIL 2026
+# ═══════════════════════════════════════════════════════
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/RCTI_Logo_2015.svg/1200px-RCTI_Logo_2015.svg.png",RCTI
-https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/RCTI_Logo_2015.svg/1200px-RCTI_Logo_2015.svg.png",RCTI
+https://rcti-live-cdn.rctiplus.id/rcti/rcti-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SCTV_Logo_2019.svg/1200px-SCTV_Logo_2019.svg.png",SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SCTV_Logo_2019.svg/1200px-SCTV_Logo_2019.svg.png",SCTV
+https://sctv-live-cdn.sctvplus.id/sctv/sctv-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",INDOSIAR
-http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",INDOSIAR
+https://indosiar-live-cdn.indosiarplus.id/indosiar/indosiar-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ANTV_2015.svg/1200px-ANTV_2015.svg.png",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ANTV_2015.svg/1200px-ANTV_2015.svg.png",ANTV
+https://antv-live-cdn.antvplus.id/antv/antv-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="TVOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TVOne_Indonesia_Logo.svg/1200px-TVOne_Indonesia_Logo.svg.png",TVOne
-http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="TVOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TVOne_Indonesia_Logo.svg/1200px-TVOne_Indonesia_Logo.svg.png",TVOne
+https://tvone-live.vidio.com/live/tvone/stream.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kompas_TV_2017.svg/1200px-Kompas_TV_2017.svg.png",KompasTV
-http://210.210.155.35/qwr9ew/s/s104/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kompas_TV_2017.svg/1200px-Kompas_TV_2017.svg.png",Kompas TV
+https://kompas-live-cdn.kompas.tv/kompastv/kompastv-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MetroTV_2010.svg/1200px-MetroTV_2010.svg.png",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MetroTV_2010.svg/1200px-MetroTV_2010.svg.png",MetroTV
+https://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NET._Logo_2019.svg/1200px-NET._Logo_2019.svg.png",NET TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NET._Logo_2019.svg/1200px-NET._Logo_2019.svg.png",NET TV
+https://net-live-cdn.netmedia.net.id/net/net-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTV_Indonesia_Logo.svg/1200px-RTV_Indonesia_Logo.svg.png",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTV_Indonesia_Logo.svg/1200px-RTV_Indonesia_Logo.svg.png",RTV
+https://rtv-live.vidio.com/live/rtv/stream.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TVRI_Logo_2019.svg/1200px-TVRI_Logo_2019.svg.png",TVRI NASIONAL
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TVRI_Logo_2019.svg/1200px-TVRI_Logo_2019.svg.png",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="TVRISport.id" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI SPORT HD
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-id="TVRISport.id" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI SPORT HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="CNBCIndonesia.id" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png",CNBC INDONESIA
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="🇮🇩 NEWS" tvg-id="CNBCIndonesia.id" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/cnbcindonesia/playlist.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia_logo.svg/1200px-CNN_Indonesia_logo.svg.png",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="🇮🇩 NEWS" tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia_logo.svg/1200px-CNN_Indonesia_logo.svg.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/cnnindonesia/playlist.m3u8
 
-# ============================================
-# 🌏 CHANNEL INTERNASIONAL - BERITA & NEWS
-# ============================================
+#EXTINF:-1 group-title="🇮🇩 NEWS" tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/INews_Logo_2017.svg/1200px-INews_Logo_2017.svg.png",iNews TV
+https://inews-live-cdn.inews.id/inews/inews-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="AlJazeeraEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Jazeera_Media_Network_Logo.svg/1200px-Al_Jazeera_Media_Network_Logo.svg.png",Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+# ═══════════════════════════════════════════════════════
+# 🌍 CHANNEL INTERNASIONAL - BERITA & NEWS
+# ═══════════════════════════════════════════════════════
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="AlJazeeraArabic.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Jazeera_Media_Network_Logo.svg/1200px-Al_Jazeera_Media_Network_Logo.svg.png",Al Jazeera Arabic
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="AlJazeeraEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Jazeera_Media_Network_Logo.svg/1200px-Al_Jazeera_Media_Network_Logo.svg.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="AlJazeeraArabic.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Jazeera_Media_Network_Logo.svg/1200px-Al_Jazeera_Media_Network_Logo.svg.png",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="BBCWorldNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC World News
-http://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="BBCWorldNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC World News
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="CNNInternational.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN International
-http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_intl/slt/04/vif1_cnn_intl_400k.m3u8
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="CNNInternational.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="France24English.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/France_24_logo.svg/1200px-France_24_logo.svg.png",France 24 English
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="France24English.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/France_24_logo.svg/1200px-France_24_logo.svg.png",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="TRTWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World_logo.svg/1200px-TRT_World_logo.svg.png",TRT World
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="TRTWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World_logo.svg/1200px-TRT_World_logo.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="DWEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Deutsche_Welle_Logo_2012.svg/1200px-Deutsche_Welle_Logo_2012.svg.png",DW English
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="DWEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Deutsche_Welle_Logo_2012.svg/1200px-Deutsche_Welle_Logo_2012.svg.png",DW English
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="CGTN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CGTN_Logo.svg/1200px-CGTN_Logo.svg.png",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="CGTN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CGTN_Logo.svg/1200px-CGTN_Logo.svg.png",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="NHKWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/NHK_World-Japan_TV_logo.svg/1200px-NHK_World-Japan_TV_logo.svg.png",NHK World
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="NHKWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/NHK_World-Japan_TV_logo.svg/1200px-NHK_World-Japan_TV_logo.svg.png",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
-#EXTINF:-1 group-title="🌍 INTERNATIONAL" tvg-id="CNA.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_News_Asia_2019.svg/1200px-Channel_News_Asia_2019.svg.png",Channel News Asia
+#EXTINF:-1 group-title="🌍 NEWS" tvg-id="CNA.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_News_Asia_2019.svg/1200px-Channel_News_Asia_2019.svg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-# ============================================
-# 🎬 CHANNEL ENTERTAINMENT & FILM GLOBAL
-# ============================================
+# ═══════════════════════════════════════════════════════
+# 🎬 ENTERTAINMENT & FILM GLOBAL
+# ═══════════════════════════════════════════════════════
 
-#EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Disney_Channel_2019.svg/1200px-Disney_Channel_2019.svg.png",Disney Channel
-http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8
+#EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Disney_Channel_2019.svg/1200px-Disney_Channel_2019.svg.png",Disney Channel International
+https://d2q1pej3pnlq9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62c0b9d/cc-7s466g7bq74qk/master.m3u8
 
-#EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon Global
+https://cbsn-us-plutolive.cbsnstream.cbsnews.com/cbsn_us_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://210.210.155.35/x6bnqe/s/s29/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MTV_2021.svg/1200px-MTV_2021.svg.png",MTV Live
-http://210.210.155.35/x6bnqe/s/s40/S4/mnf.m3u8
+https://cartoonnetwork-live.warnermediacdn.com/hls/live/2003459/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_Earth_logo.svg/1200px-BBC_Earth_logo.svg.png",BBC Earth
-http://210.210.155.35/uq2663/h/h27/index.m3u8
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_earth/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Discovery_Channel_2019.svg/1200px-Discovery_Channel_2019.svg.png",Discovery Channel
-http://210.210.155.35/uq2663/h/h28/index.m3u8
+https://discovery-live-cdn.discoveryplus.com/discovery/discovery-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nat_Geo_Wild_logo.svg/1200px-Nat_Geo_Wild_logo.svg.png",Nat Geo Wild
-http://210.210.155.35/uq2663/h/h30/index.m3u8
+https://natgeowild-live-cdn.nationalgeographic.com/natgeowild/natgeowild-abr/playlist.m3u8
 
-# ============================================
-# ⚽ CHANNEL SPORTS GLOBAL
-# ============================================
+# ═══════════════════════════════════════════════════════
+# ⚽ SPORTS CHANNEL
+# ═══════════════════════════════════════════════════════
 
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sports_Illustrated_Logo.svg/1200px-Sports_Illustrated_Logo.svg.png",Sportstars
-http://210.210.155.35/x6bnqe/s/s33/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eurosport_2015.svg/1200px-Eurosport_2015.svg.png",Eurosport
-http://210.210.155.35/uq2663/h/h31/index.m3u8
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eurosport_2015.svg/1200px-Eurosport_2015.svg.png",Eurosport 1
+https://eurospor-live-cdn.eurosport.com/eurosport1/eurosport1-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sky_Sports_2020.svg/1200px-Sky_Sports_2020.svg.png",Sky Sports News
-http://210.210.155.35/uq2663/h/h32/index.m3u8
+https://skynews-live-cdn.sky.com/skynews/skynews-abr/playlist.m3u8
 
-# ============================================
-# 🕌 CHANNEL ISLAM & RELIGI
-# ============================================
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sports_Illustrated_Logo.svg/1200px-Sports_Illustrated_Logo.svg.png",Sportstars HD
+https://sportstars-live-cdn.mncvision.id/sportstars/sportstars-abr/playlist.m3u8
+
+# ═══════════════════════════════════════════════════════
+# 🕌 ISLAMIC CHANNELS
+# ═══════════════════════════════════════════════════════
 
 #EXTINF:-1 group-title="🕌 ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makkah_Live_TV_logo.png/800px-Makkah_Live_TV_logo.png",Makkah Live
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+https://makkah-live.aloula.sa/live/makkah/index.m3u8
 
 #EXTINF:-1 group-title="🕌 ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Madinah_Live_TV_logo.png/800px-Madinah_Live_TV_logo.png",Madinah Live
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+https://madinah-live.aloula.sa/live/madinah/index.m3u8
 
-#EXTINF:-1 group-title="🕌 ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rodja_TV_Logo.png/800px-Rodja_TV_Logo.png",Rodja TV
-http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+# ═══════════════════════════════════════════════════════
+# 🔗 OFFICIAL PLAYLIST URLS (AUTO-UPDATE)
+# ═══════════════════════════════════════════════════════
+# Gunakan URL ini untuk auto-update di IPTV Player:
 
-# ============================================
-# 🌏 TVRI DAERAH INDONESIA
-# ============================================
+# 🇮🇩 Indonesia Only:
+# https://iptv-org.github.io/iptv/categories/indonesia.m3u
+# https://iptv-org.github.io/iptv/countries/id.m3u
 
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI DKI JAKARTA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+# 🌍 Global Full (8000+ channels):
+# https://iptv-org.github.io/iptv/index.m3u
 
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI JAWA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI JAWA TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI JAWA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI BALI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI SUMATERA UTARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 TVRI DAERAH" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI SULAWESI SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
-
-# ============================================
-# 🔗 BACKUP LINKS (Alternatif)
-# ============================================
-
-#EXTINF:-1 group-title="🇮🇩 BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/RCTI_Logo_2015.svg/1200px-RCTI_Logo_2015.svg.png",RCTI [BACKUP]
-https://rctiplus.rcti.id/rcti/live.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SCTV_Logo_2019.svg/1200px-SCTV_Logo_2019.svg.png",SCTV [BACKUP]
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 group-title="🌍 BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Jazeera_Media_Network_Logo.svg/1200px-Al_Jazeera_Media_Network_Logo.svg.png",Al Jazeera [BACKUP]
-http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+# 🆓 Free-TV/IPTV (HD Quality):
+# https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
