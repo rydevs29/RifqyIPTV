@@ -1,0 +1,116 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indonesia.epg.xml"
+
+# ═══════════════════════════════════════════════════════
+# 🕌 ISLAMIC & RELIGI
+# ═══════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QZqZ8u.png" group-title="🕌 ISLAMIC & RELIGI", AL QURAN AL KAREEM
+https://win.holol.com/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QZqZ8u.png" group-title="🕌 ISLAMIC & RELIGI", AL SUNNAH AL NABAWIYAH
+https://win.holol.com/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makkah_Live_TV_logo.png/800px-Makkah_Live_TV_logo.png" group-title="🕌 ISLAMIC & RELIGI", MAKKAH LIVE
+https://makkah-live.aloula.sa/live/makkah/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Madinah_Live_TV_logo.png/800px-Madinah_Live_TV_logo.png" group-title="🕌 ISLAMIC & RELIGI", MADINAH LIVE
+https://madinah-live.aloula.sa/live/madinah/index.m3u8
+
+#EXTINF:-1 tvg-id="artvisi.id" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png" group-title="🕌 ISLAMIC & RELIGI", ARTVISI
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TYc7ypJ/brtv.png" group-title="🕌 ISLAMIC & RELIGI", BRTV 🇮🇩 ☪
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 group-title="🕌 ISLAMIC & RELIGI", RAMADHAN CHANNEL
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv9nusantara.com/wp-content/uploads/2020/09/Logo-TV9-Nusantara-2020.png" group-title="🕌 ISLAMIC & RELIGI", TV9 NUSANTARA
+https://streaming.tv9nusantara.com/hls/tv9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6W1fR1R/tvmu.jpg" group-title="🕌 ISLAMIC & RELIGI", TV MUHAMMADIYAH
+https://edge.tvmu.tv/live-edge/smil:tvmu.smil/playlist.m3u8
+
+# ═══════════════════════════════════════════════════════
+# 🇮🇩 NASIONAL
+# ═══════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/logo__cnn.webp?v=10.17.6" group-title="🇮🇩 NASIONAL", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3ERVYLN.png" group-title="🇮🇩 NASIONAL", CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_e_ver3.png" group-title="🇮🇩 NASIONAL", SCTV (DENS)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="🇮🇩 NASIONAL", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="🇮🇩 NASIONAL", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="🇮🇩 NASIONAL", METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="🇮🇩 NASIONAL", NET - MDTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
+
+#EXTINF:0 tvg-id="idtv" tvg-logo="ht" group-title="🇮🇩 NASIONAL", BTV HD
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13" group-title="🇮🇩 NASIONAL", TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="🇮🇩 NASIONAL", LINGKAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://iili.io/20FRXxp.png" group-title="🇮🇩 NASIONAL", JOWO CHANNEL
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8
+
+# ═══════════════════════════════════════════════════════
+# 📰 BERITA & NEWS (GLOBAL)
+# ═══════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxkH20y/cna.png" group-title="📰 BERITA & NEWS", CHANNEL NEWS ASIA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:0 tvg-country="GB" group-title="📰 BERITA & NEWS", BBC ARABIC HD
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="San Marino RTV.it" tvg-logo="https://i.ibb.co/yVQF3cW/rtvsmr.png" group-title="📰 BERITA & NEWS", RTV SAN MARINO
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
+
+# ═══════════════════════════════════════════════════════
+# ⚽ SPORTS
+# ═══════════════════════════════════════════════════════
+
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://iptvsystem.my.id/img/tvrisport.png" group-title="⚽ SPORTS", TVRI Sport
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n62skw1/rtvsport.png" group-title="⚽ SPORTS", RTV SAN MARINO SPORT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+
+# ═══════════════════════════════════════════════════════
+# 🎬 ENTERTAINMENT
+# ═══════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3BDrBvR/transformers.png" group-title="🎬 ENTERTAINMENT", Transformers TV HD
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2JqbjY/bkids.png" group-title="🎬 ENTERTAINMENT", BISNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 group-title="🎬 ENTERTAINMENT", TRT DIANET COCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
